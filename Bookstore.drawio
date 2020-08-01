@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-01T11:05:37.680Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36 OPR/69.0.3686.77" etag="xAQmDawoTfhnxhc7D9K9" version="13.5.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-01T11:06:20.495Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36 OPR/69.0.3686.77" etag="AOP27r-PTUBofnQr-M0H" version="13.5.8" type="github">
   <diagram id="_oGlJvyZ0l_uF6xk_jwX" name="Page-1">
     <mxGraphModel dx="1267" dy="1875" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -18,11 +18,11 @@
         <mxCell id="Reaml4YtZEYa-Rm0gZFg-5" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.bucket_with_objects;fillColor=#E05243;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="280" y="20" width="90" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="Reaml4YtZEYa-Rm0gZFg-6" value="Books&amp;nbsp;&lt;br&gt;React Frontend" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="100" y="190" width="290" height="290" as="geometry" />
+        <mxCell id="Reaml4YtZEYa-Rm0gZFg-6" value="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;Books&amp;nbsp;&lt;br&gt;React Frontend&lt;/b&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="90" y="220" width="290" height="290" as="geometry" />
         </mxCell>
         <mxCell id="Reaml4YtZEYa-Rm0gZFg-7" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-128.png" vertex="1" parent="1">
-          <mxGeometry x="181" y="200" width="128" height="128" as="geometry" />
+          <mxGeometry x="160" y="220" width="128" height="128" as="geometry" />
         </mxCell>
         <mxCell id="Reaml4YtZEYa-Rm0gZFg-8" value="" style="outlineConnect=0;fontColor=#232F3E;gradientColor=#F54749;gradientDirection=north;fillColor=#C7131F;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.amplify;" vertex="1" parent="1">
           <mxGeometry x="360" y="296" width="78" height="78" as="geometry" />
