@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-20T13:39:27.764Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="EMmcHh5s0Dms-BxzBTtg" version="13.10.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-20T13:45:13.415Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="OiArmfdMVg852cAgofNG" version="13.10.0" type="github">
   <diagram id="k4dV1rbpBI8tjRco05wW" name="Page-1">
     <mxGraphModel dx="1422" dy="801" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -13,7 +13,7 @@
         <mxCell id="Tx3TmuGDQBzYQmcD6bfL-2" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="70" y="470" width="630" height="630" as="geometry" />
         </mxCell>
-        <mxCell id="Tx3TmuGDQBzYQmcD6bfL-3" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="Tx3TmuGDQBzYQmcD6bfL-3" value="&lt;h2&gt;BETSLIP&lt;/h2&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="60" y="1109" width="340" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Tx3TmuGDQBzYQmcD6bfL-4" value="&lt;h3&gt;ACCOUNT&lt;/h3&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -26,7 +26,7 @@
           <mxGeometry x="280" y="210" width="230" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1L9ggqStY3u8Fi0opDMu-3" value="&lt;h1&gt;Featured&lt;br&gt;&lt;/h1&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="115" y="480" width="520" height="120" as="geometry" />
+          <mxGeometry x="90" y="480" width="590" height="120" as="geometry" />
         </mxCell>
         <mxCell id="1L9ggqStY3u8Fi0opDMu-4" value="&lt;h1&gt;Matches&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="700" y="720" width="120" height="90" as="geometry" />
@@ -44,10 +44,37 @@
           <mxGeometry x="115" y="620" width="565" height="400" as="geometry" />
         </mxCell>
         <mxCell id="1L9ggqStY3u8Fi0opDMu-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="620" width="175" height="400" as="geometry" />
+          <mxGeometry x="90" y="620" width="200" height="400" as="geometry" />
         </mxCell>
-        <mxCell id="1L9ggqStY3u8Fi0opDMu-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="490" y="620" width="175" height="400" as="geometry" />
+        <mxCell id="1L9ggqStY3u8Fi0opDMu-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="1L9ggqStY3u8Fi0opDMu-11" target="1L9ggqStY3u8Fi0opDMu-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1L9ggqStY3u8Fi0opDMu-11" value="League" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="660" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="1L9ggqStY3u8Fi0opDMu-12" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="294" y="720" width="386" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1L9ggqStY3u8Fi0opDMu-14" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="630" width="370" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="1L9ggqStY3u8Fi0opDMu-15" value="Today" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="620" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1L9ggqStY3u8Fi0opDMu-17" value="Tomorrow" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="620" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1L9ggqStY3u8Fi0opDMu-18" value="Today" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="620" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1L9ggqStY3u8Fi0opDMu-19" value="&lt;h2&gt;LIVE&lt;/h2&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="630" width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="1L9ggqStY3u8Fi0opDMu-20" value="League" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="790" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="1L9ggqStY3u8Fi0opDMu-21" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="850" width="370" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
